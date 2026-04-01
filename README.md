@@ -1,2 +1,2 @@
 # math
-A simple math prgram
+A simple math program performing the basic arithmetic operations in c
